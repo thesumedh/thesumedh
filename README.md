@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Sumedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesumedh)
+![Sumedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesumedh&show_icons=true&theme=radical)
 
 
 <!--
