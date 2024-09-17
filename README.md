@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Sumedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesumedh&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=thesumedh&style=for-the-badge)
 
 <!--
 **thesumedh/thesumedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
