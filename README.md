@@ -11,6 +11,7 @@
 </div>
 
 
+![Spotify Now Playing](https://novatorem.yourusername.vercel.app/api/spotify)
 
 
 ###
