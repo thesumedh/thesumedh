@@ -10,7 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesumedh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-[![Song Name](https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s?autoplay=true)
+
+[Listen on Spotify](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s)
+
 
 
 
