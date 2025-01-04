@@ -11,7 +11,6 @@
 </div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndfyjd2dpv5zmoy3twwrjp2k2i&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=589d58&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndfyjd2dpv5zmoy3twwrjp2k2i&redirect=true)
 
 
 
