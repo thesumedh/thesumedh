@@ -28,14 +28,14 @@ I like building things that are simple, secure, and serverless.
 Currently working on:
 - **P2PChat** – an end-to-end encrypted terminal chat app with no servers, just sockets.
 
-I mostly build in **Python**, focus on **TUI/CLI tools**, and care about **privacy-first** design.
+I mostly build in **Python and JAVA**, focus on **tools**, and care about **privacy-first** design.
 
-📬 Reach me: `youremail@domain.com`
+
 
 
 ### 💬 Let's Connect
 
-- Linkedin: `[Sumedh Chandanshive](https://www.linkedin.com/in/imsumedh/)`
+- [LinkedIn](https://www.linkedin.com/in/imsumedh/)
 - GitHub: [@thesumedh](https://github.com/thesumedh)
 
 > I believe good software should be simple, ethical, and empower the user.
