@@ -5,10 +5,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesumedh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesumedh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 
 
@@ -22,7 +19,7 @@
 
 
 # 👋 Hi, I'm Sumedh
-Hi there. I'm Sumedh Chandanshive. I'm just an average IT'26 grad who likes to build things that are simple, secure.
+I'm Sumedh Chandanshive. I'm just an average IT'26 grad who likes to build things that are simple, secure.
 
 
 Currently working on:
@@ -35,7 +32,7 @@ I mostly build in **Python and JAVA**, focus on **tools**, and care about **priv
 
 ### 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/imsumedh/)
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/imsumedh/)
 - GitHub: [@thesumedh](https://github.com/thesumedh)
 
 > I believe good software should be simple, ethical, and empower the user.
