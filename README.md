@@ -22,8 +22,8 @@
 
 
 # 👋 Hi, I'm Sumedh
+Hi there. I'm Sumedh Chandanshive. I'm just an average IT'26 grad who likes to build things that are simple, secure.
 
-I like building things that are simple, secure, and serverless.
 
 Currently working on:
 - **P2PChat** – an end-to-end encrypted terminal chat app with no servers, just sockets.
