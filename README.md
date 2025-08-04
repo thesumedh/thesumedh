@@ -17,6 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=thesumedh&style=for-the-badge)
 
 
+![GitHub User's stars](https://img.shields.io/github/stars/thesumedh?affiliations=OWNER&style=social)
 
 # 👋 Hi, I'm Sumedh
 I'm Sumedh Chandanshive. I'm just an average IT'26 grad who likes to build things that are simple, secure.
